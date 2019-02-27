@@ -2,7 +2,7 @@
 
 Jawablah pertanyaan berikut ini dengan singkat dan jelas
 1. Sebutkan 3 jenis tipe variabel di dalam Python
-    * Jawab:jenis tipe variabel di dalam Python adalah:
+    * Jawab:Jenis tipe variabel di dalam Python adalah:
             a. Integer 
             b. Bolean 
             c. String 
